@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "notes": "- Primera versión descargable de Despacho.\r\n- Actualizaciones automáticas desde el repositorio de descargas.",
+  "pub_date": "2026-11-04T15:37:04Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzlpTUx6ZUNMZWQ3aFcrWTFXUFBHdFBiUzREL1dadTEyeG5WOGlkM1k5eDh3bTNJZVZKa09uM2VZYVFOK1BNZ1VGNk1Ob0NPajQ3c1VFVWJCK1BQd2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODA2NjEyCWZpbGU6RGVzcGFjaG9fMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCkVIdjMyb1FtWjUydmJYbTJINk1scDBEcDIvRkZkVFQ5SEV6c3BVOFZwQlg3anloVjdhc1Zjem9lUXduZGtqVDhYcy9seGpHbXYyZVBaZ3Nsd1h4RUR3PT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.0/Despacho_0.1.0_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Primera versión descargable de Despacho.\r\n- Actualizaciones automáticas desde el repositorio de descargas."
+}
