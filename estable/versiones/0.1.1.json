@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "notes": "- Exportar a Aplifisa genera por defecto los libros registro de IVA en Excel (recibidas y expedidas), con la plantilla de la AEAT. El diario XDIARIO sigue disponible.\r\n- Controles de facturas: numeración repetida o con saltos, bienes de inversión y operaciones con NIF extranjero.\r\n- Fecha de contabilización: las facturas que llegan con el trimestre cerrado pasan al trimestre en curso.\r\n- Bandeja «Cliente desconocido» para dar de alta o rechazar documentos de empresas que aún no son clientes.\r\n- Reglas especiales para clasificar automáticamente las facturas de un proveedor.",
+  "pub_date": "2026-11-05T15:14:43Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2Ty9kNWk4bVhuVk5kWGJuL0FLS01nNFN2ZEhpdTJ0eHpFcEd2c0x1WkYwTHZsekJQNUJKcmtweHVZVUZGekpGdlJCQ2ZkVlNkbmN6elFDQkdzUGZXVXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODkxNjYwCWZpbGU6RGVzcGFjaG9fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmdSZnFYNlA0Mkw5NjR4b0toZC9MMlluRUVCSzFwcW5UVy9pSGZ4WXZhY2RFMEFHYklxOWgxMGxLa3FTUUc1NXhIZG1nT0w1dG12NU5uWHF4YVp1ZEFBPT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.1/Despacho_0.1.1_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Exportar a Aplifisa genera por defecto los libros registro de IVA en Excel (recibidas y expedidas), con la plantilla de la AEAT. El diario XDIARIO sigue disponible.\r\n- Controles de facturas: numeración repetida o con saltos, bienes de inversión y operaciones con NIF extranjero.\r\n- Fecha de contabilización: las facturas que llegan con el trimestre cerrado pasan al trimestre en curso.\r\n- Bandeja «Cliente desconocido» para dar de alta o rechazar documentos de empresas que aún no son clientes.\r\n- Reglas especiales para clasificar automáticamente las facturas de un proveedor."
+}
