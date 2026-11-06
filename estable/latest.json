@@ -1,13 +1,13 @@
 {
-  "version": "0.1.4",
-  "notes": "- Revisión de documentos: «Anterior» y «Siguiente» recorren solo la pestaña desde la que se abrió el documento (Validados, Rechazados…), en el orden en que se ve.",
-  "pub_date": "2026-11-06T07:43:52Z",
+  "version": "0.1.5",
+  "notes": "- «Abrir ubicación» abre la carpeta de la factura con el archivo marcado (antes, con espacios en la ruta, se abría la carpeta de Descargas).",
+  "pub_date": "2026-11-06T08:02:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzRIMVJRYk9nTm1MWndkMUtaV1Q2Zyt4VU9KVXZ5NnMwQlVvTTBRZUhQM2JwTTZLbUYrVzgrbWcxZHd2ck1TQXpnczhrNHFrWk5kYyt1a1Exc0FwdUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUxMDIxCWZpbGU6RGVzcGFjaG9fMC4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40CnQ3WG9DcVhVZFVXbHlucjIyZXJKZkdEQnltYktaTlF2L2hVZVNJc1d0VnRxdHZERlVrUGhKeDk5UnJXQ3ZrRlczQ0ZUUllDTnY5Wlk3RXlXcmZnOEN3PT0K",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.4/Despacho_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2Tys1UkI2QXRlZ3NuN1ZTVG8vMDdqOTJDYVJ4emlVdTBRMnk5VGhKS2JkYkpDWnBWUXhqejZzMENLYjRXcFI1ZkRsMFFDWXVOOGVLYmNYUDFLVkFsRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUyMTY4CWZpbGU6RGVzcGFjaG9fMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41Cnl3dFptSHQrbEFjRFpjdUc5NFdDOVdTZ1JjZXVOeG8rZWFUTlZ6c29RSy92a1F5ZHFzZ212dHNNTHR6Y29Ua3JDb3hIUEVGdXp1WkszMWZxV3hDRENRPT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.5/Despacho_0.1.5_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Revisión de documentos: «Anterior» y «Siguiente» recorren solo la pestaña desde la que se abrió el documento (Validados, Rechazados…), en el orden en que se ve."
+  "novedades": "- «Abrir ubicación» abre la carpeta de la factura con el archivo marcado (antes, con espacios en la ruta, se abría la carpeta de Descargas)."
 }

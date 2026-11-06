@@ -1,0 +1,13 @@
+{
+  "version": "0.1.5",
+  "notes": "- «Abrir ubicación» abre la carpeta de la factura con el archivo marcado (antes, con espacios en la ruta, se abría la carpeta de Descargas).",
+  "pub_date": "2026-11-06T08:02:56Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2Tys1UkI2QXRlZ3NuN1ZTVG8vMDdqOTJDYVJ4emlVdTBRMnk5VGhKS2JkYkpDWnBWUXhqejZzMENLYjRXcFI1ZkRsMFFDWXVOOGVLYmNYUDFLVkFsRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUyMTY4CWZpbGU6RGVzcGFjaG9fMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41Cnl3dFptSHQrbEFjRFpjdUc5NFdDOVdTZ1JjZXVOeG8rZWFUTlZ6c29RSy92a1F5ZHFzZ212dHNNTHR6Y29Ua3JDb3hIUEVGdXp1WkszMWZxV3hDRENRPT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.5/Despacho_0.1.5_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- «Abrir ubicación» abre la carpeta de la factura con el archivo marcado (antes, con espacios en la ruta, se abría la carpeta de Descargas)."
+}
