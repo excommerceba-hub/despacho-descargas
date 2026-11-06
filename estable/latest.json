@@ -1,13 +1,13 @@
 {
-  "version": "0.1.3",
-  "notes": "- Archivo de facturas en carpetas: cada factura validada se guarda además, ya ordenada, en una carpeta del ordenador (cliente, año, trimestre, recibidas o emitidas). Se activa en Configuración → Archivo en carpetas.\r\n- «Abrir ubicación» en cada factura archivada y «Abrir carpeta del cliente» en la ficha.\r\n- Historial del documento: dónde se ha archivado, movido o retirado cada factura.",
-  "pub_date": "2026-11-06T06:50:07Z",
+  "version": "0.1.4",
+  "notes": "- Revisión de documentos: «Anterior» y «Siguiente» recorren solo la pestaña desde la que se abrió el documento (Validados, Rechazados…), en el orden en que se ve.",
+  "pub_date": "2026-11-06T07:43:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzI0NmJNVnUvOEZabUxERXJSU25PRnNodDVrbzhqem1WT0lHS0FuRTJmWXdXRnVHS3IwU0lOTGg0Nk9PK1M3K0MzbXQxT1o5RkpNZTg4ZlpMWHMyN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ3Nzk5CWZpbGU6RGVzcGFjaG9fMC4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCjFYYnEzeGcwZ0xzbzNCdXkwRnp5RE11blVmTTA1TlYyOE1adTVWMEtGcHQzcWU2N1pEUEpla0k3c1ZlK2Vob3hJSm4xOW9pSTBaNnRtWmxBUUdleUN3PT0K",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.3/Despacho_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzRIMVJRYk9nTm1MWndkMUtaV1Q2Zyt4VU9KVXZ5NnMwQlVvTTBRZUhQM2JwTTZLbUYrVzgrbWcxZHd2ck1TQXpnczhrNHFrWk5kYyt1a1Exc0FwdUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUxMDIxCWZpbGU6RGVzcGFjaG9fMC4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40CnQ3WG9DcVhVZFVXbHlucjIyZXJKZkdEQnltYktaTlF2L2hVZVNJc1d0VnRxdHZERlVrUGhKeDk5UnJXQ3ZrRlczQ0ZUUllDTnY5Wlk3RXlXcmZnOEN3PT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.4/Despacho_0.1.4_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Archivo de facturas en carpetas: cada factura validada se guarda además, ya ordenada, en una carpeta del ordenador (cliente, año, trimestre, recibidas o emitidas). Se activa en Configuración → Archivo en carpetas.\r\n- «Abrir ubicación» en cada factura archivada y «Abrir carpeta del cliente» en la ficha.\r\n- Historial del documento: dónde se ha archivado, movido o retirado cada factura."
+  "novedades": "- Revisión de documentos: «Anterior» y «Siguiente» recorren solo la pestaña desde la que se abrió el documento (Validados, Rechazados…), en el orden en que se ve."
 }
