@@ -1,0 +1,13 @@
+{
+  "version": "0.1.6",
+  "notes": "- Plan de cuentas: exporta a Excel e importa subcuentas desde Excel o desde el informe de subcuentas de Aplifisa, con vista previa antes de aplicar.\r\n- Las subcuentas de 8 dígitos se admiten y se muestran completas, y aparecen en la revisión de facturas sin reiniciar.\r\n- Una compra en subcuenta 600xxxxx se contabiliza contra proveedores (400) y no contra acreedores (410).",
+  "pub_date": "2026-11-09T09:45:38Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzZyRC8vN1EwYURoY28zVXFWNFM5NjlUc3MrWnhlZWdXTXVBcmY1RTl5V3pBQXloakdOMW4xaCtIN1FiTG5oSEVUYUhiVkxnQUVIVjNMVlNUV1VCZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE3NTMxCWZpbGU6RGVzcGFjaG9fMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42ClV3dmJuMUtLWjBjSk5MMEJHZUNpR0NvbUtWK1FTK3kxNzNFU1YxaU0rczhmVmxZNlN4UWdIUExLNmJ2MkNJankxbDFXRm9uMDJZQ0lwREtLU3hjMEJ3PT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.6/Despacho_0.1.6_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Plan de cuentas: exporta a Excel e importa subcuentas desde Excel o desde el informe de subcuentas de Aplifisa, con vista previa antes de aplicar.\r\n- Las subcuentas de 8 dígitos se admiten y se muestran completas, y aparecen en la revisión de facturas sin reiniciar.\r\n- Una compra en subcuenta 600xxxxx se contabiliza contra proveedores (400) y no contra acreedores (410)."
+}
