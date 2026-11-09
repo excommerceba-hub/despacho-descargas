@@ -1,0 +1,13 @@
+{
+  "version": "0.1.7",
+  "notes": "- Libros de facturas en Excel y en PDF con los originales adjuntos, e importación de los libros de Aplifisa.\r\n- Plan de subcuentas propio por cliente, importable desde Excel.\r\n- Plan de cuentas unificado: 8 dígitos, sin duplicadas y nombres escritos igual, respetando siglas como IVA. Antes se hace una copia de seguridad, al terminar verás un resumen y puedes deshacerlo.\r\n- En el Mayor, una cuenta antigua de 3 dígitos y la de 8 son la misma.\r\n- Las facturas con varios tipos de IVA y las rectificativas se marcan «No exportable, revisar a mano».\r\n- Las facturas con NIF extranjero tienen su pestaña y ya no salen como NIF erróneo.",
+  "pub_date": "2026-11-09T16:52:06Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TytwNWxwaG5vQXRRNzd6YlUwQVFJUmFhcGF1VUZJUWdFRFlZTnJqSzRLMSt2eWtvWDlha1VUSlUyaXNoOVNqQXBENEVGdU5nRDBJNWVGVW1PSHFzMXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQzMTE5CWZpbGU6RGVzcGFjaG9fMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CnVuWVZWeVFNQ01oR2xpZGlxS2hFLzFTZENEMzBhTHowUmgxbXFSY0tVdjlXbDIva1ZFY1dJOUk2M3puUVk4dk01SXF1cWZER3gxNldwUHpobGw1UUJRPT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.7/Despacho_0.1.7_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Libros de facturas en Excel y en PDF con los originales adjuntos, e importación de los libros de Aplifisa.\r\n- Plan de subcuentas propio por cliente, importable desde Excel.\r\n- Plan de cuentas unificado: 8 dígitos, sin duplicadas y nombres escritos igual, respetando siglas como IVA. Antes se hace una copia de seguridad, al terminar verás un resumen y puedes deshacerlo.\r\n- En el Mayor, una cuenta antigua de 3 dígitos y la de 8 son la misma.\r\n- Las facturas con varios tipos de IVA y las rectificativas se marcan «No exportable, revisar a mano».\r\n- Las facturas con NIF extranjero tienen su pestaña y ya no salen como NIF erróneo."
+}
