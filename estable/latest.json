@@ -1,13 +1,13 @@
 {
-  "version": "0.1.12",
-  "notes": "- Las facturas exportadas a Aplifisa quedan marcadas con su fecha y, por defecto, no se vuelven a exportar: así Aplifisa no las duplica. Al exportar se avisa de cuántas se han dejado fuera.\r\n- La ficha de una factura exportada lo indica y recuerda corregirla también en el programa de contabilidad si se cambia.",
-  "pub_date": "2026-11-10T13:47:50Z",
+  "version": "0.1.13",
+  "notes": "- Si un PDF trae varias facturas, el programa lo detecta y avisa. Con el botón «Separar por páginas» se crea un documento por factura y cada uno se lee por su lado.",
+  "pub_date": "2026-11-10T14:55:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzVZVHZ0aTlQVlRWR3pIaHhtSmsyTGFaa0k4UW90cUZPYXRWN011a0taYW9ZVkpYK1VNaTd4eHIxODFrODRJSkd6Y3Z6TWxLWjVsb0VtRkZNd1pjMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE4NDY0CWZpbGU6RGVzcGFjaG9fMC4xLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTIKNlg3b1FPNzM0ZWQxd0E2T3JTZXRVRVBML05YNHFqWTlUV2dmT2dRY3ZVUy9tS3dDUHZMNktxUzRqZzJpelZvNElZdk1NTVlUa0hiTFRFUFJJYU1GREE9PQo=",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.12/Despacho_0.1.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzlsYzdCWkRSbVJNdm84MElab2laOHhYUXpGNmIyZWxCejV2SHBkKzB3anZxVm1NQXFGZStJbDhOcnk1VTltVmdlUkxxbjhBUWNBOTdFVXRuWllWSWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIyNTA2CWZpbGU6RGVzcGFjaG9fMC4xLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTMKdXJjdXp0aTNyRzZoank1UjhqbUhoNCtHV2hxNys4bFB0WEp2VUJwa2gvelc1Rzg3Y3dKYWFCeXovdmFOYkJJcDRrcjhzNjQwNDgwaG8vaGFGRGVnQ3c9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.13/Despacho_0.1.13_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Las facturas exportadas a Aplifisa quedan marcadas con su fecha y, por defecto, no se vuelven a exportar: así Aplifisa no las duplica. Al exportar se avisa de cuántas se han dejado fuera.\r\n- La ficha de una factura exportada lo indica y recuerda corregirla también en el programa de contabilidad si se cambia."
+  "novedades": "- Si un PDF trae varias facturas, el programa lo detecta y avisa. Con el botón «Separar por páginas» se crea un documento por factura y cada uno se lee por su lado."
 }
