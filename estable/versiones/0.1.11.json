@@ -1,0 +1,13 @@
+{
+  "version": "0.1.11",
+  "notes": "- La bandeja de documentos aprovecha la pantalla completa: la cuenta y los avisos se leen enteros.\r\n- En ventanas pequeñas la tabla se adapta ocultando primero las columnas menos importantes.",
+  "pub_date": "2026-11-10T13:21:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzBqTk5oNUdIdmJPNFlzMXFJVENXZEhsN2VHWE42UW81azdLZzNaaUlNbkM3SDkvMWs5K0x6Qm44eTcveU84aUtBVmNvS3ZGR2w0TEptWWRjREN2Z2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE2ODkyCWZpbGU6RGVzcGFjaG9fMC4xLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTEKNE5rY2VKU3dhc0cyaFgrZC9qZkFKdU82a2xMeG0vU3hPYWp5ZUZ6K05NNkthd01FK1MrZzk5TnRDZHRIeUl6ZTRPcDlweTNUYU9xNEUvbjZGUy9sQnc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.11/Despacho_0.1.11_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- La bandeja de documentos aprovecha la pantalla completa: la cuenta y los avisos se leen enteros.\r\n- En ventanas pequeñas la tabla se adapta ocultando primero las columnas menos importantes."
+}
