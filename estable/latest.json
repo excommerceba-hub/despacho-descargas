@@ -1,13 +1,13 @@
 {
-  "version": "0.1.13",
-  "notes": "- Si un PDF trae varias facturas, el programa lo detecta y avisa. Con el botón «Separar por páginas» se crea un documento por factura y cada uno se lee por su lado.",
-  "pub_date": "2026-11-10T14:55:13Z",
+  "version": "0.1.14",
+  "notes": "- Al cambiar la cuenta de una factura, el desplegable tiene buscador: teclea el número o parte del nombre.\r\n- «Falta documentación del cliente» lleva a la lista de lo que falta de ese trimestre, desde el seguimiento y desde la ficha del cliente.\r\n- Hoy avisa dos semanas antes del plazo de los documentos que faltan, con «Ver qué falta».\r\n- La leyenda del seguimiento está ordenada en un recuadro bajo la tabla.",
+  "pub_date": "2026-11-10T17:47:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzlsYzdCWkRSbVJNdm84MElab2laOHhYUXpGNmIyZWxCejV2SHBkKzB3anZxVm1NQXFGZStJbDhOcnk1VTltVmdlUkxxbjhBUWNBOTdFVXRuWllWSWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIyNTA2CWZpbGU6RGVzcGFjaG9fMC4xLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTMKdXJjdXp0aTNyRzZoank1UjhqbUhoNCtHV2hxNys4bFB0WEp2VUJwa2gvelc1Rzg3Y3dKYWFCeXovdmFOYkJJcDRrcjhzNjQwNDgwaG8vaGFGRGVnQ3c9PQo=",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.13/Despacho_0.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzNuamxOOCtQN1lya0NQaFU4Vy82bzB2M08rUWozQXpoTnByMDRBSkRXS0xKekYxa05hWEQxTG84T3BNdWlrSUh3R3ZGMFh2RTJ0RWE4UmgvcVF5Zmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzMyODYzCWZpbGU6RGVzcGFjaG9fMC4xLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTQKMlBIeFNjUG1keEI1QTdJNDZoazJ0cFZKYnkvWmxtblc5anUwOG5lYndHN3pmNGhvUVd6S3YyNytjMExYVFpZMG5JV1JRQjg5bHdvSmNFMFo4UjgrQWc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.14/Despacho_0.1.14_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Si un PDF trae varias facturas, el programa lo detecta y avisa. Con el botón «Separar por páginas» se crea un documento por factura y cada uno se lee por su lado."
+  "novedades": "- Al cambiar la cuenta de una factura, el desplegable tiene buscador: teclea el número o parte del nombre.\r\n- «Falta documentación del cliente» lleva a la lista de lo que falta de ese trimestre, desde el seguimiento y desde la ficha del cliente.\r\n- Hoy avisa dos semanas antes del plazo de los documentos que faltan, con «Ver qué falta».\r\n- La leyenda del seguimiento está ordenada en un recuadro bajo la tabla."
 }
