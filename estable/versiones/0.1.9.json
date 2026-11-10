@@ -1,0 +1,13 @@
+{
+  "version": "0.1.9",
+  "notes": "- Avisos de variación por cliente: el programa compara cada trimestre con el anterior y con el mismo del año pasado, te explica el porqué y puedes silenciarlos o ajustar los umbrales.\r\n- Botón para importar el libro de Excel desde la ficha del cliente; la ficha abre en el último trimestre con documentos.\r\n- Aviso cuando una factura asignada por carpeta o por correo no lleva el NIF del cliente.\r\n- El registro de actividad del asistente se descarga en Excel o texto y dice el motivo de cada fallo.\r\n- Nuevo Registro de errores en Configuración, descargable, para enviarlo si algo no funciona bien.\r\n- La clasificación contable falla menos y espera más antes de reintentar cuando la IA va saturada.",
+  "pub_date": "2026-11-10T12:29:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzNYYVRhMkNjSFJPbzVoUWlwNk4yN0dnRjQ5akhoQWVFelpLdFYrWFNBMTVPTFIrMFlMb09lS2NVV2tZOStGdEpTN2RuY2g2V0FORXRKNExqUHBwU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEzNzM5CWZpbGU6RGVzcGFjaG9fMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45Cmw2TnM5SEtaZlVpRkNZdzNSMkJZMERvUmdTWDNhWXY2c2MyWmcxN0hFelk3Y0ZTU2ZiNUZTMmdsaEczM0dJRFppbDRUNXFOTWx2MFZnSVN0WFVtZEF3PT0K",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.9/Despacho_0.1.9_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Avisos de variación por cliente: el programa compara cada trimestre con el anterior y con el mismo del año pasado, te explica el porqué y puedes silenciarlos o ajustar los umbrales.\r\n- Botón para importar el libro de Excel desde la ficha del cliente; la ficha abre en el último trimestre con documentos.\r\n- Aviso cuando una factura asignada por carpeta o por correo no lleva el NIF del cliente.\r\n- El registro de actividad del asistente se descarga en Excel o texto y dice el motivo de cada fallo.\r\n- Nuevo Registro de errores en Configuración, descargable, para enviarlo si algo no funciona bien.\r\n- La clasificación contable falla menos y espera más antes de reintentar cuando la IA va saturada."
+}
