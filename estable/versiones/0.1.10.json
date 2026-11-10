@@ -1,0 +1,13 @@
+{
+  "version": "0.1.10",
+  "notes": "- Las notificaciones que llegan por correo o por la carpeta (requerimientos, sanciones, embargos…) se reconocen y se leen solas: salen en Por revisar con un aviso destacado y, al validarlas, se registran en Notificaciones con su plazo y su tarea.",
+  "pub_date": "2026-11-10T12:52:53Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TytsRVdmK0dRamdwRXUzdEZWQVp1QUdndUVmUjFsWE5wZ1NLVllDSlBtUHloWXhrQzdHRStRaEg4ZDhRSUx4M3R3dk1MOGcwaENHWEphdkJpUndrOXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE1MTY3CWZpbGU6RGVzcGFjaG9fMC4xLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTAKYXdsMjVjejg3bTBRMm5sRTY0Si85bk1hRXEvMG5La1hudjZ0Q0NJbXN0QmY4b1QyZXByaDJwd3BCL2htekFZVzZOQ0JQcU9nOVhMaG1qRllDSkxXQ2c9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.10/Despacho_0.1.10_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Las notificaciones que llegan por correo o por la carpeta (requerimientos, sanciones, embargos…) se reconocen y se leen solas: salen en Por revisar con un aviso destacado y, al validarlas, se registran en Notificaciones con su plazo y su tarea."
+}
