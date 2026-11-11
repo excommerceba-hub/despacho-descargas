@@ -1,13 +1,13 @@
 {
-  "version": "0.1.17",
-  "notes": "- Facturas incompletas: si no se leen los importes (factura cortada o mal escaneada), sale un error rojo «Factura incompleta: no se puede validar». No se puede aceptar, ni en bloque, hasta completarla o rechazarla.\r\n- Copias de seguridad: nuevo botón «Desactivar el aviso de copias» para quitar el aviso de Hoy si la asesoría ya hace copias de su servidor.",
-  "pub_date": "2026-11-11T12:18:39Z",
+  "version": "0.1.18",
+  "notes": "- Buzón de facturas: admite adjuntos de hasta 25 MB (antes 15 MB) y, si alguno no entra, lo avisa y queda en el registro de errores en vez de perderse.\r\n- Buzón de facturas: reconoce los PDF que llegan sin nombre o sin extensión y los que vienen dentro de un correo reenviado como adjunto.\r\n- Los PDF muy grandes (varias facturas escaneadas juntas) se leen bien y, al separarlos, no se pierde ninguna página.\r\n- La «última revisión» del buzón se muestra en la hora de este equipo.",
+  "pub_date": "2026-11-11T14:51:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzR5R0puZDVaOXZqeU9obElnRWxCT29QZk5GNmg4dThDMUpFM1kwL0hoZGZISWpMWjV3Unh2bHBkNnlWWDEzMUtobytXcXZwaUFDQitKaTF6U3VFU2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzk5NTA2CWZpbGU6RGVzcGFjaG9fMC4xLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTcKMnBQREZtbStMZkp4ekJFOW83TkRQWGZONjloU3dTQW5zRkxnUDlDcXZla002SWdSODZzL0N2OHpoVEpkaUtiZWI2THBuNTRVM0NHcFFlYyt6ZG93Qmc9PQo=",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.17/Despacho_0.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzQ1bVBVSFNCbVpBWnpGNkZ6N2pHSDhwbk1aRG5RclFFN3ZCL3NFOVRMRUxqUG1uQ1hab2htQUp3Zk5BVlFrdWVCY1J1QnF6RFNmZ3E3OTFCOEJrUWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NjY4CWZpbGU6RGVzcGFjaG9fMC4xLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTgKQmozSm5McmVNMEZPVW9hUnZsdTN1SHNUd295OHhYVE1rOVRUYjdmdnE0UFFhRUx3TDN2UU9tRFl2QWxhZ0hQdkdwNGVYN0M4VWNQK05tZVpmUmRIQ3c9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.18/Despacho_0.1.18_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Facturas incompletas: si no se leen los importes (factura cortada o mal escaneada), sale un error rojo «Factura incompleta: no se puede validar». No se puede aceptar, ni en bloque, hasta completarla o rechazarla.\r\n- Copias de seguridad: nuevo botón «Desactivar el aviso de copias» para quitar el aviso de Hoy si la asesoría ya hace copias de su servidor."
+  "novedades": "- Buzón de facturas: admite adjuntos de hasta 25 MB (antes 15 MB) y, si alguno no entra, lo avisa y queda en el registro de errores en vez de perderse.\r\n- Buzón de facturas: reconoce los PDF que llegan sin nombre o sin extensión y los que vienen dentro de un correo reenviado como adjunto.\r\n- Los PDF muy grandes (varias facturas escaneadas juntas) se leen bien y, al separarlos, no se pierde ninguna página.\r\n- La «última revisión» del buzón se muestra en la hora de este equipo."
 }
