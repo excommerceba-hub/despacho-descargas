@@ -1,0 +1,13 @@
+{
+  "version": "0.1.23",
+  "notes": "- Servidor de la asesoría: la conexión con los puestos va cifrada con la clave de la asesoría; la clave ya no viaja por la red. La hora de Windows del servidor y la de los puestos no puede diferir más de 2 minutos. Actualiza todos los equipos a la vez.\r\n- Al restaurar una copia en otro ordenador o con otro usuario de Windows, las facturas originales vuelven a abrirse.\r\n- La fecha de «hoy» es la del ordenador (antes, entre las 00:00 y la 01:00 podía tomar el día anterior).",
+  "pub_date": "2026-11-12T11:53:06Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzlpaUs0N2p3MWU5dWY1MnJxcllyNmVTWUlLMlpmaEwySHdldHR2dUc1b2Evc3NtYXRaakRpN0x5ZFo5b1IzSXg2UWIxZzZVWDd5V3VWcXRjWlpGYkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg0MzczCWZpbGU6RGVzcGFjaG9fMC4xLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjMKdytwME45cEN5Q0NUTVRPVXZ0KzBQZEhISEY2TVJTdFJZOHB5RlQvcFZGVXY2QjRyY2VBbUtFSWtzaXZIZExqMkxlNFo3S3Y3UFE0d2RZRWRmOUVtQkE9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.23/Despacho_0.1.23_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Servidor de la asesoría: la conexión con los puestos va cifrada con la clave de la asesoría; la clave ya no viaja por la red. La hora de Windows del servidor y la de los puestos no puede diferir más de 2 minutos. Actualiza todos los equipos a la vez.\r\n- Al restaurar una copia en otro ordenador o con otro usuario de Windows, las facturas originales vuelven a abrirse.\r\n- La fecha de «hoy» es la del ordenador (antes, entre las 00:00 y la 01:00 podía tomar el día anterior)."
+}
