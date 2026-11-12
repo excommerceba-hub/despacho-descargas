@@ -1,0 +1,13 @@
+{
+  "version": "0.1.22",
+  "notes": "- Servidor de la asesoría: nueva opción para que el programa se abra solo al iniciar Windows, sin ventana y con un icono junto al reloj. En el servidor, cerrar la ventana ya no lo cierra (los puestos siguen trabajando); para salir, clic derecho en el icono → Salir.\r\n- Si se abre el programa cuando ya está abierto, se muestra el que ya estaba: nunca hay dos a la vez en el mismo equipo.\r\n- Avisos de variación: el historial muestra el periodo como «3T 2026».",
+  "pub_date": "2026-11-12T10:32:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzVjSVRhVlZST200ZURoRVd3TnNDMXBqZnZzbU9GOU91VkRQQzl0WlpkMnpEVTVIRG5ld21PcE5FbzgvcnlIaUl3OGc1QVE1aFJUWmxpMVl3YmpCQ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5NTMyCWZpbGU6RGVzcGFjaG9fMC4xLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjIKLzZlRDNRYmZnU3ExdnRqYlNPTTRtNXBVb1ZwVFQvQmE4a0ZzM3RpbC9rUlRxaGU3S2pObG9taExQZUtDdTk5Y3lvQnF2UmI0bTVkdHpYbk9QUEVzQUE9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.22/Despacho_0.1.22_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Servidor de la asesoría: nueva opción para que el programa se abra solo al iniciar Windows, sin ventana y con un icono junto al reloj. En el servidor, cerrar la ventana ya no lo cierra (los puestos siguen trabajando); para salir, clic derecho en el icono → Salir.\r\n- Si se abre el programa cuando ya está abierto, se muestra el que ya estaba: nunca hay dos a la vez en el mismo equipo.\r\n- Avisos de variación: el historial muestra el periodo como «3T 2026»."
+}
