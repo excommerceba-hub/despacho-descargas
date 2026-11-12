@@ -1,0 +1,13 @@
+{
+  "version": "0.1.21",
+  "notes": "- Perfiles con PIN (opcional): cada perfil puede tener un PIN de 4 a 8 cifras que se pide al entrar en él. Se pone en Configuración → Perfiles y funciones, con un código de recuperación por si se olvida.\r\n- Avisos de variación: el historial muestra qué perfil hizo cada cambio, y la tarjeta de Hoy enseña solo los clientes del perfil (Gerencia, todos).\r\n- Seguimiento de cierre: al confirmar una tarea que había detectado el programa, queda marcada con «A».",
+  "pub_date": "2026-11-12T07:30:52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzB5TWNHNHh1RHlqUEEzTHl5bUtWZ0RocDNNSS84STIyV0NzWWExMlpES0xoMkRLam1GQVFaeG9WN1RJejlXSEIwRm5UK3hWSGZZbjhVQ0dDblB1VUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY4NjQwCWZpbGU6RGVzcGFjaG9fMC4xLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjEKWDNqSE0vaWw3alVabWRVbTNNWVk5Tm9rYVp0ZlRPWEhjYUdWMDBXR1hWdHBqNnJXdHVXWGk5b0tSU3pKcCtGSkcvSzVPZEJENnh2YS94RFl5SnFSQ0E9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.21/Despacho_0.1.21_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Perfiles con PIN (opcional): cada perfil puede tener un PIN de 4 a 8 cifras que se pide al entrar en él. Se pone en Configuración → Perfiles y funciones, con un código de recuperación por si se olvida.\r\n- Avisos de variación: el historial muestra qué perfil hizo cada cambio, y la tarjeta de Hoy enseña solo los clientes del perfil (Gerencia, todos).\r\n- Seguimiento de cierre: al confirmar una tarea que había detectado el programa, queda marcada con «A»."
+}
