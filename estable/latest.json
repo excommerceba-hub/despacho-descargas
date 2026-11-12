@@ -1,13 +1,13 @@
 {
-  "version": "0.1.24",
-  "notes": "- Si no se puede copiar un texto (por ejemplo, la clave del servidor), el programa lo dice en lugar de dar «Copiado».\r\n- Más fallos quedan en el registro de errores: la lectura de los tipos fiscales, la comprobación periódica de la licencia y el apunte del uso de la IA.\r\n- Manual: el PIN de los perfiles sirve para separar el trabajo de cada persona; la protección de los datos es la contraseña de Windows y la clave de la red.",
-  "pub_date": "2026-11-12T13:10:23Z",
+  "version": "0.1.25",
+  "notes": "- Varios puestos: si otra persona cambia un asiento o la nota de una casilla del seguimiento mientras la editas, el programa te pregunta antes de guardar (como ya hacía con las facturas y las fichas de cliente).\r\n- Varios puestos: si la hora del puesto y la del servidor no coinciden, el aviso muestra las dos para saber cuál corregir.\r\n- Al restaurar una copia hecha en otro ordenador, los documentos quedan apuntando a este equipo.",
+  "pub_date": "2026-11-12T13:46:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzJTNUhXNFpVcnJ3U28vWkRWQ0QvdDE1SFJCTW1Jb3AwbkVRSEtoYk8wcGRncndvUE4rcFVsV21PWkhKTnNLVFJ4MEVRRGhuQ3c0VHJSQVZITUdBVndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg5MDA5CWZpbGU6RGVzcGFjaG9fMC4xLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjQKNG5MRXBFUllDN1M5THYzVWJTT2Yxb3dwMXlkcVNPRG15bVJ5VGRWOVlOMDNndVR6bmJLTDJKbVN5MmJCcm9DNHh4U3VLUXVjVWlqbzNmankxbXhjRGc9PQo=",
-      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.24/Despacho_0.1.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2T3g1ajR1RitnZlhSMElVYy9GSVh6aUp3b1dWNUc3aGhPSk9hb0g5ejAyaFBLazd2R0pHZUFOR2pKdklzZkx2V1gxYlZJelNxcU1CcEswbmNFS0hjTmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkxMTkxCWZpbGU6RGVzcGFjaG9fMC4xLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjUKeE9uQWJiNlhaSDhoRkRxRWp0dkhnd0JCQ2VsV2NDd0hYNDZLMHR6Y1VSbFplZ3Zpbm1tcGJ0NmlrazlsM0hjQ2N3ZjJFRjVzK1BnSXJHby80a00xQmc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.25/Despacho_0.1.25_x64-setup.exe"
     }
   },
   "critica": false,
-  "novedades": "- Si no se puede copiar un texto (por ejemplo, la clave del servidor), el programa lo dice en lugar de dar «Copiado».\r\n- Más fallos quedan en el registro de errores: la lectura de los tipos fiscales, la comprobación periódica de la licencia y el apunte del uso de la IA.\r\n- Manual: el PIN de los perfiles sirve para separar el trabajo de cada persona; la protección de los datos es la contraseña de Windows y la clave de la red."
+  "novedades": "- Varios puestos: si otra persona cambia un asiento o la nota de una casilla del seguimiento mientras la editas, el programa te pregunta antes de guardar (como ya hacía con las facturas y las fichas de cliente).\r\n- Varios puestos: si la hora del puesto y la del servidor no coinciden, el aviso muestra las dos para saber cuál corregir.\r\n- Al restaurar una copia hecha en otro ordenador, los documentos quedan apuntando a este equipo."
 }

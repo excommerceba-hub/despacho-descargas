@@ -1,0 +1,13 @@
+{
+  "version": "0.1.25",
+  "notes": "- Varios puestos: si otra persona cambia un asiento o la nota de una casilla del seguimiento mientras la editas, el programa te pregunta antes de guardar (como ya hacía con las facturas y las fichas de cliente).\r\n- Varios puestos: si la hora del puesto y la del servidor no coinciden, el aviso muestra las dos para saber cuál corregir.\r\n- Al restaurar una copia hecha en otro ordenador, los documentos quedan apuntando a este equipo.",
+  "pub_date": "2026-11-12T13:46:43Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2T3g1ajR1RitnZlhSMElVYy9GSVh6aUp3b1dWNUc3aGhPSk9hb0g5ejAyaFBLazd2R0pHZUFOR2pKdklzZkx2V1gxYlZJelNxcU1CcEswbmNFS0hjTmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkxMTkxCWZpbGU6RGVzcGFjaG9fMC4xLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjUKeE9uQWJiNlhaSDhoRkRxRWp0dkhnd0JCQ2VsV2NDd0hYNDZLMHR6Y1VSbFplZ3Zpbm1tcGJ0NmlrazlsM0hjQ2N3ZjJFRjVzK1BnSXJHby80a00xQmc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.25/Despacho_0.1.25_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Varios puestos: si otra persona cambia un asiento o la nota de una casilla del seguimiento mientras la editas, el programa te pregunta antes de guardar (como ya hacía con las facturas y las fichas de cliente).\r\n- Varios puestos: si la hora del puesto y la del servidor no coinciden, el aviso muestra las dos para saber cuál corregir.\r\n- Al restaurar una copia hecha en otro ordenador, los documentos quedan apuntando a este equipo."
+}
