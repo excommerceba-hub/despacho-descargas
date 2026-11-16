@@ -1,0 +1,13 @@
+{
+  "version": "0.1.26",
+  "notes": "- Cliente que entra en la asesoría a mitad de año: lo de los trimestres anteriores a su fecha de alta («Cliente desde») aparece como «No aplica» en el seguimiento y no se le pide esa documentación.\r\n- La versión para la asesoría ya no trae los datos de demostración ni el botón «Borrar todos los datos».",
+  "pub_date": "2026-11-16T12:15:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzgrM1JoZGZyaXQwRFQ4b1FuN3BDaGFFQyszakx2aURVek1uR055QTR5TC9YL0JTYXpXSWgwaDQ2c1NlZ1JlY24ySDQ4UEh1ZW1PYmltUldHSmV0cmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODMxMjk1CWZpbGU6RGVzcGFjaG9fMC4xLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjYKWHMzaXN5WmJaTDZVME1SL0ROQmhvWEI1bWdPNlRERXp1YUowU2NmdUxwcWRCajZSbnQxcmRTZmdiU2g3WGlLRi9oTWtMSmNuV3FneVh3TVR3bDQ0Qnc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.26/Despacho_0.1.26_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Cliente que entra en la asesoría a mitad de año: lo de los trimestres anteriores a su fecha de alta («Cliente desde») aparece como «No aplica» en el seguimiento y no se le pide esa documentación.\r\n- La versión para la asesoría ya no trae los datos de demostración ni el botón «Borrar todos los datos»."
+}
