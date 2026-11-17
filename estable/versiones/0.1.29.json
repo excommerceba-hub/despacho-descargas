@@ -1,0 +1,13 @@
+{
+  "version": "0.1.29",
+  "notes": "- Si tu proveedor cambia tu licencia (más equipos, otro módulo, nuevas fechas), el programa recibe la licencia actualizada solo, en unos minutos: ya no hay que instalarla en cada equipo.",
+  "pub_date": "2026-11-17T13:14:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzZoem83cWhsbHhBMWNnMVVHU0xFZ3JKbzZnallvNS90RlhySXNhSzlBS2xaeXMyakVybzNydERGRzJXL2pRNHVsZDJhVHhPMGpzTlZsQXhEdWI2aXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIxMjMzCWZpbGU6RGVzcGFjaG9fMC4xLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjkKdTUvbzFxREZ0TlBRWXVac2ZRWm5xQ0VJS1JtWE9od3FRUHV5ME5FdzBrUTlZQUErVUJndVFLekM4SXVVQXExNzQwV2VtY1VOYnByUWNJL2thcDdLQVE9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.29/Despacho_0.1.29_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Si tu proveedor cambia tu licencia (más equipos, otro módulo, nuevas fechas), el programa recibe la licencia actualizada solo, en unos minutos: ya no hay que instalarla en cada equipo."
+}
