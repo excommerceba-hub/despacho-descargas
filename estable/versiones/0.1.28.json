@@ -1,0 +1,13 @@
+{
+  "version": "0.1.28",
+  "notes": "- Importar clientes de golpe desde un listado en PDF, Excel o CSV (por ejemplo, el listado de empresas del programa de contabilidad), con vista previa antes de darlos de alta. Si el listado llega por correo, sale un aviso para revisarlo y confirmarlo.\r\n- Libro de facturas recibidas: la fecha de operación es la de la factura si es del trimestre; si es de otro, el primer día del trimestre.\r\n- Las facturas de otro año quedan en revisión manual para que decidas si aceptarlas o rechazarlas.\r\n- Mejor lectura del CIF impreso en vertical en el margen, y corrección de CIF mal leídos (una B leída como un 8).",
+  "pub_date": "2026-11-17T12:19:47Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TzFRWi8wdllSVERFanc5VGp1QllZL1huTWY5SE9DWWNFS1RkaG9HTW10ZXlPcStXWlJMcFI3eUlaR3BURDNlaWZmRmJOWlRsVGlmMmRmbkM3bmtOY3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE3OTc5CWZpbGU6RGVzcGFjaG9fMC4xLjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjgKZkdZY203R3l6ZFkwYTBtWnVJRUFRdjlUQW92UDJBa3llWVluZDlCSWtXRE55dzlmVXBLb0NLNFhqSUlDamFKRllwSFBJeWtpckUvcXVvU0tXbmczRGc9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.28/Despacho_0.1.28_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Importar clientes de golpe desde un listado en PDF, Excel o CSV (por ejemplo, el listado de empresas del programa de contabilidad), con vista previa antes de darlos de alta. Si el listado llega por correo, sale un aviso para revisarlo y confirmarlo.\r\n- Libro de facturas recibidas: la fecha de operación es la de la factura si es del trimestre; si es de otro, el primer día del trimestre.\r\n- Las facturas de otro año quedan en revisión manual para que decidas si aceptarlas o rechazarlas.\r\n- Mejor lectura del CIF impreso en vertical en el margen, y corrección de CIF mal leídos (una B leída como un 8)."
+}
