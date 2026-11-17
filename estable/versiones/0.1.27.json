@@ -1,0 +1,13 @@
+{
+  "version": "0.1.27",
+  "notes": "- Libro de facturas recibidas (LRFR) con las retenciones: base, tipo y cuota, desglosadas por línea de IVA.\r\n- Los albaranes que se cuelan entre las facturas salen marcados «Albarán · borrar», y el botón «Borrar albaranes» los selecciona todos para borrarlos.\r\n- Las facturas de abono impresas en positivo (pone «Abono» o «Rectificativa») se leen con los importes en negativo.",
+  "pub_date": "2026-11-17T09:37:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRXWGprb1k2TytFUUMrak1DUzN0QU9VNEthNk9jc1ExTVppSUl0UmVtU09mWmFSUzJGc0hjT2tUSzFwM0pFTSt4WUtjcW5rT3Z2VTM3TkdPM3hROGs5cjM0S3BlTkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA4MjUyCWZpbGU6RGVzcGFjaG9fMC4xLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjcKU2RKRVlyemVmeGlCbHVpZ0VMeTZRZ0NpYWlTT0NZZ2lEREk1UFp3NCt4VzhnRGVvQVZIVGpWNFJ3RzArdWVLVDBZRDBSbU5xK0hRRnVBYnZuYnQwQ0E9PQo=",
+      "url": "https://github.com/excommerceba-hub/despacho-descargas/releases/download/v0.1.27/Despacho_0.1.27_x64-setup.exe"
+    }
+  },
+  "critica": false,
+  "novedades": "- Libro de facturas recibidas (LRFR) con las retenciones: base, tipo y cuota, desglosadas por línea de IVA.\r\n- Los albaranes que se cuelan entre las facturas salen marcados «Albarán · borrar», y el botón «Borrar albaranes» los selecciona todos para borrarlos.\r\n- Las facturas de abono impresas en positivo (pone «Abono» o «Rectificativa») se leen con los importes en negativo."
+}
